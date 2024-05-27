@@ -1,0 +1,217 @@
+[
+    {
+      "id": "1",
+      "question": "What is CSS?",
+      "answer": "CSS stands for Cascading Style Sheets and is a styling language used to describe the look and formatting of a document written in HTML."
+    },
+    {
+      "id": "2",
+      "question": "What are the different ways to include CSS in a webpage?",
+      "answer": "CSS can be included in a webpage using inline styles, internal stylesheets, and external stylesheets."
+    },
+    {
+      "id": "3",
+      "question": "What is the purpose of the 'class' attribute in HTML?",
+      "answer": "The 'class' attribute is used to specify one or more class names for an HTML element, which can then be targeted by CSS to apply specific styles."
+    },
+    {
+      "id": "4",
+      "question": "What is the difference between 'id' and 'class' in CSS?",
+      "answer": "The 'id' attribute is used to uniquely identify an HTML element, while the 'class' attribute can be used to target multiple elements with the same class name."
+    },
+    {
+      "id": "5",
+      "question": "What are the different types of CSS selectors?",
+      "answer": "CSS selectors include element selectors, class selectors, ID selectors, attribute selectors, and pseudo-class selectors."
+    },
+    {
+      "id": "6",
+      "question": "What is the 'box model' in CSS?",
+      "answer": "The 'box model' refers to the layout of elements in CSS, which consists of the content area, padding, border, and margin."
+    },
+    {
+      "id": "7",
+      "question": "What is the 'float' property in CSS used for?",
+      "answer": "The 'float' property is used to specify whether an element should float to the left, right, or none within its parent container."
+    },
+    {
+      "id": "8",
+      "question": "What is the 'display' property in CSS used for?",
+      "answer": "The 'display' property is used to specify the type of box used for an HTML element, such as block, inline, or inline-block."
+    },
+    {
+      "id": "9",
+      "question": "What is the 'position' property in CSS used for?",
+      "answer": "The 'position' property is used to specify the type of positioning used for an HTML element, such as static, relative, absolute, or fixed."
+    },
+    {
+      "id": "10",
+      "question": "What is the 'z-index' property in CSS used for?",
+      "answer": "The 'z-index' property is used to specify the stack order of positioned elements that overlap within a document."
+    },
+    {
+      "id": "11",
+      "question": "What is the 'box-sizing' property in CSS used for?",
+      "answer": "The 'box-sizing' property is used to specify whether an element's width and height should include its padding and border."
+    },
+    {
+      "id": "12",
+      "question": "What is the 'media query' in CSS used for?",
+      "answer": "A 'media query' is used to apply different CSS styles based on the characteristics of the device, such as screen size or resolution."
+    },
+    {
+      "id": "13",
+      "question": "What is the 'flexbox' layout in CSS used for?",
+      "answer": "The 'flexbox' layout is a CSS layout mode that provides an efficient way to distribute space among items in a container."
+    },
+    {
+      "id": "14",
+      "question": "What is the 'grid' layout in CSS used for?",
+      "answer": "The 'grid' layout is a CSS layout mode that provides a two-dimensional grid-based layout system for designing web pages."
+    },
+    {
+      "id": "15",
+      "question": "What is the 'pseudo-element' in CSS used for?",
+      "answer": "A 'pseudo-element' is used to style specific parts of an element, such as the first letter or line of a paragraph."
+    },
+    {
+      "id": "16",
+      "question": "What is the 'pseudo-class' in CSS used for?",
+      "answer": "A 'pseudo-class' is used to style elements based on their state or position, such as :hover or :nth-child."
+    },
+    {
+      "id": "17",
+      "question": "What is the 'transition' property in CSS used for?",
+      "answer": "The 'transition' property is used to specify the transition effects when a CSS property changes its value."
+    },
+    {
+      "id": "18",
+      "question": "What is the 'animation' property in CSS used for?",
+      "answer": "The 'animation' property is used to specify the keyframes-based animations in CSS."
+    },
+    {
+      "id": "19",
+      "question": "What is the 'transform' property in CSS used for?",
+      "answer": "The 'transform' property is used to apply 2D or 3D transformations to an element, such as scaling, rotating, or skewing."
+    },
+    {
+      "id": "20",
+      "question": "What is the 'box-shadow' property in CSS used for?",
+      "answer": "The 'box-shadow' property is used to add a shadow effect to an element's box."
+    },
+    {
+      "id": "21",
+      "question": "What is the 'text-overflow' property in CSS used for?",
+      "answer": "The 'text-overflow' property is used to specify how overflowed content that is not displayed should be signaled to the user."
+    },
+    {
+      "id": "22",
+      "question": "What is the 'outline' property in CSS used for?",
+      "answer": "The 'outline' property is used to set the outline style for an element, which is a line that is drawn around the element's border."
+    },
+    {
+      "id": "23",
+      "question": "What is the 'opacity' property in CSS used for?",
+      "answer": "The 'opacity' property is used to specify the transparency level of an element, where 1 is fully opaque and 0 is fully transparent."
+    },
+    {
+      "id": "24",
+      "question": "What is the 'filter' property in CSS used for?",
+      "answer": "The 'filter' property is used to apply graphical effects like blur or color shifting to an element."
+    },
+    {
+      "id": "25",
+      "question": "What is the 'user-select' property in CSS used for?",
+      "answer": "The 'user-select' property is used to control the selection of text in an element, such as preventing text from being selected."
+    },
+    {
+      "id": "26",
+      "question": "What is the 'pointer-events' property in CSS used for?",
+      "answer": "The 'pointer-events' property is used to specify whether an element can be the target for mouse events."
+    },
+    {
+      "id": "27",
+      "question": "What is the 'overflow' property in CSS used for?",
+      "answer": "The 'overflow' property is used to specify what should happen if content overflows the boundaries of an element's box."
+    },
+    {
+      "id": "28",
+      "question": "What is the 'background' property in CSS used for?",
+      "answer": "The 'background' property is used to set the background color, image, and other properties of an element."
+    },
+    {
+      "id": "29",
+      "question": "What is the 'color' property in CSS used for?",
+      "answer": "The 'color' property is used to set the text color of an element."
+    },
+    {
+      "id": "30",
+      "question": "What is the 'font-size' property in CSS used for?",
+      "answer": "The 'font-size' property is used to set the size of the text within an element."
+    },
+    {
+      "id": "31",
+      "question": "What is the 'line-height' property in CSS used for?",
+      "answer": "The 'line-height' property is used to set the height of a line of text within an element."
+    },
+    {
+      "id": "32",
+      "question": "What is the 'margin' property in CSS used for?",
+      "answer": "The 'margin' property is used to set the outer spacing of an element."
+    },
+    {
+      "id": "33",
+      "question": "What is the 'padding' property in CSS used for?",
+      "answer": "The 'padding' property is used to set the inner spacing of an element."
+    },
+    {
+      "id": "34",
+      "question": "What is the 'border' property in CSS used for?",
+      "answer": "The 'border' property is used to set the width, style, and color of an element's border."
+    },
+    {
+      "id": "35",
+      "question": "What is the 'width' property in CSS used for?",
+      "answer": "The 'width' property is used to set the width of an element's content area."
+    },
+    {
+      "id": "36",
+      "question": "What is the 'height' property in CSS used for?",
+      "answer": "The 'height' property is used to set the height of an element's content area."
+    },
+    {
+      "id": "37",
+      "question": "What is the 'max-width' property in CSS used for?",
+      "answer": "The 'max-width' property is used to set the maximum width of an element's content area."
+    },
+    {
+      "id": "38",
+      "question": "What is the 'min-width' property in CSS used for?",
+      "answer": "The 'min-width' property is used to set the minimum width of an element's content area."
+    },
+    {
+      "id": "39",
+      "question": "What is the 'max-height' property in CSS used for?",
+      "answer": "The 'max-height' property is used to set the maximum height of an element's content area."
+    },
+    {
+      "id": "40",
+      "question": "What is the 'min-height' property in CSS used for?",
+      "answer": "The 'min-height' property is used to set the minimum height of an element's content area."
+    },
+    {
+      "id": "41",
+      "question": "What is the 'position: fixed' property in CSS used for?",
+      "answer": "The 'position: fixed' property is used to set the position of an element relative to the browser window, even when scrolling."
+    },
+    {
+      "id": "42",
+      "question": "What is the 'position: relative' property in CSS used for?",
+      "answer": "The 'position: relative' property is used to set the position of an element relative to its normal position."
+    },
+    {
+      "id": "43",
+      "question": "What is the 'position: absolute' property in CSS used for?",
+      "answer": "The 'position: absolute' property is used to set the position of an element relative to its nearest positioned ancestor."
+    }
+  ]

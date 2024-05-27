@@ -1,0 +1,187 @@
+[
+    {
+      "id": "1",
+      "question": "What is HTML?",
+      "answer": "HTML stands for HyperText Markup Language. It is the standard markup language for creating web pages."
+    },
+    {
+      "id": "2",
+      "question": "What are the new features in HTML5?",
+      "answer": "HTML5 introduces several new elements, such as <header>, <nav>, <section>, <article>, <footer>, and <video>."
+    },
+    {
+      "id": "3",
+      "question": "What is the purpose of the <head> element in HTML?",
+      "answer": "The <head> element is used to define meta information about an HTML document, such as the title, character encoding, and linked stylesheets."
+    },
+    {
+      "id": "4",
+      "question": "What is the difference between <div> and <span> in HTML?",
+      "answer": "<div> is a block-level element used to group larger chunks of HTML, while <span> is an inline element used to apply styles to smaller sections of text."
+    },
+    {
+      "id": "5",
+      "question": "What is the purpose of the alt attribute in an <img> tag?",
+      "answer": "The alt attribute is used to provide alternative text for an image, which is displayed if the image fails to load or for accessibility purposes."
+    },
+    {
+      "id": "6",
+      "question": "What is the difference between the <script> tag's src and inline attributes?",
+      "answer": "The src attribute is used to link an external JavaScript file, while the inline attribute is used to embed JavaScript code directly within the HTML document."
+    },
+    {
+      "id": "7",
+      "question": "What is the purpose of the <a> tag in HTML?",
+      "answer": "The <a> tag is used to create hyperlinks, allowing users to navigate between web pages."
+    },
+    {
+      "id": "8",
+      "question": "What is the difference between the <ol> and <ul> tags in HTML?",
+      "answer": "<ol> is used to create ordered lists with numbered items, while <ul> is used to create unordered lists with bulleted items."
+    },
+    {
+      "id": "9",
+      "question": "What is the purpose of the <form> element in HTML?",
+      "answer": "The <form> element is used to create an HTML form for user input, such as text fields, checkboxes, and submit buttons."
+    },
+    {
+      "id": "10",
+      "question": "What is the role of the <table> tag in HTML?",
+      "answer": "The <table> tag is used to create tabular data, with rows represented by <tr> and cells represented by <td> or <th>."
+    },
+    {
+      "id": "11",
+      "question": "What is the purpose of the colspan attribute in an HTML table?",
+      "answer": "The colspan attribute specifies the number of columns a cell should span, allowing for the creation of merged cells."
+    },
+    {
+      "id": "12",
+      "question": "What is the difference between the <strong> and <em> tags in HTML?",
+      "answer": "<strong> is used to indicate strong importance, while <em> is used to indicate emphasis."
+    },
+    {
+      "id": "13",
+      "question": "What is the purpose of the <iframe> tag in HTML?",
+      "answer": "The <iframe> tag is used to embed another HTML document within the current document, such as displaying a PDF or video."
+    },
+    {
+      "id": "14",
+      "question": "What is the difference between the <header> and <h1> tags in HTML5?",
+      "answer": "<header> is a container for introductory content or a set of navigational links, while <h1> is a heading element used to define the main heading of a section."
+    },
+    {
+      "id": "15",
+      "question": "What is the purpose of the <meta> tag in HTML?",
+      "answer": "The <meta> tag is used to provide metadata about an HTML document, such as the character encoding, viewport settings, or keywords for search engines."
+    },
+    {
+      "id": "16",
+      "question": "What is the difference between the <section> and <div> tags in HTML5?",
+      "answer": "<section> is used to define sections or groups of related content, while <div> is a generic container used for styling and grouping elements."
+    },
+    {
+      "id": "17",
+      "question": "What is the purpose of the <label> element in HTML?",
+      "answer": "The <label> element is used to associate a text label with a form control, improving accessibility and usability."
+    },
+    {
+      "id": "18",
+      "question": "What is the difference between the <input> types 'text' and 'password' in HTML?",
+      "answer": "The 'text' type is used for regular text input, while the 'password' type masks the input characters for secure password entry."
+    },
+    {
+      "id": "19",
+      "question": "What is the purpose of the <blockquote> element in HTML?",
+      "answer": "The <blockquote> element is used to indicate a section of quoted content, typically displayed with indentation or a different visual style."
+    },
+    {
+      "id": "20",
+      "question": "What is the role of the <nav> tag in HTML5?",
+      "answer": "The <nav> tag is used to define a section of navigation links, such as a menu or a list of related pages."
+    },
+    {
+      "id": "21",
+      "question": "What is the purpose of the <textarea> tag in HTML?",
+      "answer": "The <textarea> tag is used to create a multi-line text input field, allowing users to enter longer blocks of text."
+    },
+    {
+      "id": "22",
+      "question": "What is the difference between the <b> and <strong> tags in HTML?",
+      "answer": "<b> is used to apply bold formatting, while <strong> is used to indicate strong importance, which may be rendered as bold or with emphasis."
+    },
+    {
+      "id": "23",
+      "question": "What is the purpose of the <select> element in HTML?",
+      "answer": "The <select> element is used to create a drop-down list of options, allowing users to select one or multiple items."
+    },
+    {
+      "id": "24",
+      "question": "What is the difference between the <hr> and <br> tags in HTML?",
+      "answer": "<hr> is used to create a horizontal rule, typically displayed as a line, while <br> is used to insert a line break within a paragraph of text."
+    },
+    {
+      "id": "25",
+      "question": "What is the purpose of the <cite> element in HTML5?",
+      "answer": "The <cite> element is used to indicate the title of a creative work, such as a book, movie, or song."
+    },
+    {
+      "id": "26",
+      "question": "What is the difference between the <img> and <picture> tags in HTML5?",
+      "answer": "<img> is used to embed an image in an HTML document, while <picture> allows for multiple source files and responsive image selection based on device capabilities."
+    },
+    {
+      "id": "27",
+      "question": "What is the purpose of the <fieldset> element in HTML?",
+      "answer": "The <fieldset> element is used to group related form controls together, along with an optional <legend> element as a title or description."
+    },
+    {
+      "id": "28",
+      "question": "What is the difference between the <code> and <pre> tags in HTML?",
+      "answer": "<code> is used to represent a fragment of computer code, while <pre> is used to preserve the original formatting of preformatted text, such as code examples."
+    },
+    {
+      "id": "29",
+      "question": "What is the purpose of the <meter> element in HTML5?",
+      "answer": "The <meter> element is used to represent a scalar measurement within a known range, such as disk usage or download progress."
+    },
+    {
+      "id": "30",
+      "question": "What is the difference between the <article> and <section> tags in HTML5?",
+      "answer": "<article> is used to represent a self-contained composition, such as a blog post or news article, while <section> is a generic container for grouping related content."
+    },
+    {
+      "id": "31",
+      "question": "What is the purpose of the <figcaption> element in HTML5?",
+      "answer": "The <figcaption> element is used to provide a caption or description for a <figure> element, typically used for images or illustrations."
+    },
+    {
+      "id": "32",
+      "question": "What is the difference between the <sup> and <sub> tags in HTML?",
+      "answer": "<sup> is used to display superscript text, typically used for footnotes or exponentiation, while <sub> is used to display subscript text, typically used for chemical formulas or mathematical equations."
+    },
+    {
+      "id": "33",
+      "question": "What is the purpose of the <datalist> element in HTML5?",
+      "answer": "The <datalist> element is used to provide a pre-defined list of options for an <input> element, displayed as a dropdown menu."
+    },
+    {
+      "id": "34",
+      "question": "What is the difference between the <time> and <date> input types in HTML5?",
+      "answer": "There is no <date> input type in HTML5. The <time> input type is used to capture a specific time, such as a time of day or a duration."
+    },
+    {
+      "id": "35",
+      "question": "What is the purpose of the <aside> element in HTML5?",
+      "answer": "The <aside> element is used to mark content that is tangentially related to the main content, such as sidebars, pull quotes, or advertising."
+    },
+    {
+      "id": "36",
+      "question": "What is the difference between the <style> and <link> tags for CSS in HTML?",
+      "answer": "<style> is used to embed CSS code directly within the HTML document, while <link> is used to link an external CSS file."
+    },
+    {
+      "id": "37",
+      "question": "What is the purpose of the <ruby> element in HTML5?",
+      "answer": "The <ruby> element is used to provide annotations for East Asian typography, such as phonetic pronunciation or semantic annotations."
+    }
+  ]
