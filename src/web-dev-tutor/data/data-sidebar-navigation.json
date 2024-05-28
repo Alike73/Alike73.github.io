@@ -1,0 +1,281 @@
+[
+    {
+        "id": "1",
+        "title": "HTML",
+        "dataBsTarget": "html-collapse",
+        "topics": [
+            {
+                "id": "1",
+                "title": "Introduction to HTML",
+                "linkTo": "/"
+            },
+            {
+                "id": "2",
+                "title": "Basic HTML Structure",
+                "linkTo": "/html-page-2"
+            },
+            {
+                "id": "3",
+                "title": "HTML Elements and Attributes",
+                "linkTo": "/html-page-3"
+            },
+            {
+                "id": "4",
+                "title": "Text Formatting",
+                "linkTo": "/html-page-4"
+            },
+            {
+                "id": "5",
+                "title": "Lists",
+                "linkTo": "/html-page-5"
+            },
+            {
+                "id": "6",
+                "title": "Links and Navigation",
+                "linkTo": "/html-page-6"
+            },
+            {
+                "id": "7",
+                "title": "Images and Multimedia",
+                "linkTo": "/html-page-7"
+            },
+            {
+                "id": "8",
+                "title": "Tables",
+                "linkTo": "/html-page-8"
+            },
+            {
+                "id": "9",
+                "title": "Forms and Input",
+                "linkTo": "/html-page-9"
+            },
+            {
+                "id": "10",
+                "title": "Semantic HTML",
+                "linkTo": "/html-page-10"
+            },
+            {
+                "id": "11",
+                "title": "HTML5 New Features",
+                "linkTo": "/html-page-11"
+            },
+            {
+                "id": "12",
+                "title": "Global Attributes",
+                "linkTo": "/html-page-12"
+            },
+            {
+                "id": "13",
+                "title": "Responsive Web Design",
+                "linkTo": "/html-page-13"
+            },
+            {
+                "id": "14",
+                "title": "HTML APIs",
+                "linkTo": "/html-page-14"
+            },
+            {
+                "id": "15",
+                "title": "Accessibility in HTML",
+                "linkTo": "/html-page-15"
+            },
+            {
+                "id": "16",
+                "title": "Performance Optimization",
+                "linkTo": "/html-page-16"
+            },
+            {
+                "id": "17",
+                "title": "SEO Best Practices",
+                "linkTo": "/html-page-17"
+            },
+            {
+                "id": "18",
+                "title": "Best Practices and Coding Standards",
+                "linkTo": "/html-page-18"
+            },
+            {
+                "id": "19",
+                "title": "HTML and CSS Integration",
+                "linkTo": "/html-page-19"
+            },
+            {
+                "id": "20",
+                "title": "HTML and JavaScript Integration",
+                "linkTo": "/html-page-20"
+            },
+            {
+                "id": "21",
+                "title": "Advanced Topics",
+                "linkTo": "/html-page-21"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "CSS",
+        "dataBsTarget": "css-collapse",
+        "topics": [
+            {
+                "id":"1",
+                "title": "CSS Topic#1",
+                "linkTo": "/css-page-1"
+            },
+            {
+                "id": "2",
+                "title": "CSS Topic#2",
+                "linkTo": "/css-page-2"
+            },
+            {
+                "id": "3",
+                "title": "CSS Topic#3",
+                "linkTo": "/css-page-3"
+            },
+            {
+                "id": "4",
+                "title": "CSS Topic#4",
+                "linkTo": "/css-page-4"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "JavaScript",
+        "dataBsTarget": "js-collapse",
+        "topics": [
+            {
+                "id": "1",
+                "title": "JavaScript Topic#1",
+                "linkTo": "/js-page-1"
+            },
+            {
+                "id": "2",
+                "title": "JavaScript Topic#2",
+                "linkTo": "/js-page-2"
+            },
+            {
+                "id": "3",
+                "title": "JavaScript Topic#3",
+                "linkTo": "/js-page-3"
+            },
+            {
+                "id": "4",
+                "title": "JavaScript Topic#4",
+                "linkTo": "/js-page-4"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "title": "React",
+        "dataBsTarget": "react-collapse",
+        "topics": [
+            {
+                "id": "1",
+                "title": "React Topic#1",
+                "linkTo": "/react-page-1"
+            },
+            {
+                "id": "2",
+                "title": "React Topic#2",
+                "linkTo": "/react-page-2"
+            },
+            {
+                "id": "3",
+                "title": "React Topic#3",
+                "linkTo": "/react-page-3"
+            },
+            {
+                "id": "4",
+                "title": "React Topic#4",
+                "linkTo": "/react-page-4"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "title": "NodeJS",
+        "dataBsTarget": "nodejs-collapse",
+        "topics": [
+            {
+                "id": "1",
+                "title": "NodeJS Topic#1",
+                "linkTo": "/nodejs-page-1"
+            },
+            {
+                "id": "2",
+                "title": "NodeJS Topic#2",
+                "linkTo": "/nodejs-page-2"
+            },
+            {
+                "id": "3",
+                "title": "NodeJS Topic#3",
+                "linkTo": "/nodejs-page-3"
+            },
+            {
+                "id": "4",
+                "title": "NodeJS Topic#4",
+                "linkTo": "/nodejs-page-4"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Useful Tricks",
+        "dataBsTarget": "useful-tricks-collapse",
+        "topics": [
+            {
+                "id": "1",
+                "title": "Useful Tricks Topic#1",
+                "linkTo": "/useful-tricks-page-1"
+            },
+            {
+                "id": "2",
+                "title": "Useful Tricks Topic#2",
+                "linkTo": "/useful-tricks-page-2"
+            },
+            {
+                "id": "3",
+                "title": "Useful Tricks Topic#3",
+                "linkTo": "/useful-tricks-page-3"
+            },
+            {
+                "id": "4",
+                "title": "Useful Tricks Topic#4",
+                "linkTo": "/useful-tricks-page-4"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Interview Tutor",
+        "dataBsTarget": "interview-collapse",
+        "topics": [
+            {
+                "id": "1",
+                "title": "Interview HTML Q & A",
+                "linkTo": "/interview-html"
+            },
+            {
+                "id": "2",
+                "title": "Interview CSS Q & A",
+                "linkTo": "/interview-css"
+            },
+            {
+                "id": "3",
+                "title": "Interview JavaScript Q & A",
+                "linkTo": "/interview-js"
+            },
+            {
+                "id": "4",
+                "title": "Interview React Q & A",
+                "linkTo": "/interview-react"
+            },
+            {
+                "id": "5",
+                "title": "Interview NodeJS Q & A",
+                "linkTo": "/interview-nodejs"
+            }
+        ]
+    }
+]
