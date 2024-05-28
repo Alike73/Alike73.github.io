@@ -3,7 +3,7 @@
         "id": "1",
         "title": "HTML",
         "dataBsTarget": "html-collapse",
-        "activeIndicator": null,
+        "activeIndicator": true,
         "topics": [
             {
                 "id": "1",
@@ -116,7 +116,7 @@
         "id": "2",
         "title": "CSS",
         "dataBsTarget": "css-collapse",
-        "activeIndicator": null,
+        "activeIndicator": false,
         "topics": [
             {
                 "id":"1",
@@ -144,7 +144,7 @@
         "id": "3",
         "title": "JavaScript",
         "dataBsTarget": "js-collapse",
-        "activeIndicator": null,
+        "activeIndicator": false,
         "topics": [
             {
                 "id": "1",
@@ -172,7 +172,7 @@
         "id": "4",
         "title": "React",
         "dataBsTarget": "react-collapse",
-        "activeIndicator": null,
+        "activeIndicator": false,
         "topics": [
             {
                 "id": "1",
@@ -200,7 +200,7 @@
         "id": "5",
         "title": "NodeJS",
         "dataBsTarget": "nodejs-collapse",
-        "activeIndicator": null,
+        "activeIndicator": false,
         "topics": [
             {
                 "id": "1",
@@ -228,7 +228,7 @@
         "id": "6",
         "title": "Useful Tricks",
         "dataBsTarget": "useful-tricks-collapse",
-        "activeIndicator": null,
+        "activeIndicator": false,
         "topics": [
             {
                 "id": "1",
@@ -256,7 +256,7 @@
         "id": "7",
         "title": "Interview Tutor",
         "dataBsTarget": "interview-collapse",
-        "activeIndicator": null,
+        "activeIndicator": false,
         "topics": [
             {
                 "id": "1",
