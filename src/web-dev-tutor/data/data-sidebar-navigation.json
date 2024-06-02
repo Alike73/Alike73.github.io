@@ -277,5 +277,27 @@
                 "linkTo": "/interview-nodejs"
             }
         ]
+    },
+    {
+        "id": "8",
+        "title": "Dev Library",
+        "dataBsTarget": "dev-lib-collapse",
+        "topics": [
+            {
+                "id": "1",
+                "title": "Frontend Development",
+                "linkTo": "/frontend-development-lib"
+            },
+            {
+                "id": "2",
+                "title": "Backend Development",
+                "linkTo": "/backend-development-lib"
+            },
+            {
+                "id": "3",
+                "title": "Full-Stack Development",
+                "linkTo": "/full-stack-development-lib"
+            }
+        ]
     }
 ]
