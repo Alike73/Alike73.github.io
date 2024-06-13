@@ -117,25 +117,125 @@
         "dataBsTarget": "css-collapse",
         "topics": [
             {
-                "id":"1",
-                "title": "CSS Topic#1",
+                "id": "1",
+                "title": "Introduction to CSS",
                 "linkTo": "/css-page-1"
             },
             {
                 "id": "2",
-                "title": "CSS Topic#2",
+                "title": "Basic CSS Syntax and Selectors",
                 "linkTo": "/css-page-2"
             },
             {
                 "id": "3",
-                "title": "CSS Topic#3",
+                "title": "CSS Box Model",
                 "linkTo": "/css-page-3"
             },
             {
                 "id": "4",
-                "title": "CSS Topic#4",
+                "title": "Styling Text",
                 "linkTo": "/css-page-4"
-            }
+            },
+            {
+                "id": "5",
+                "title": "Colors and Backgrounds",
+                "linkTo": "/css-page-5"
+            },
+            {
+                "id": "6",
+                "title": "CSS Layout",
+                "linkTo": "/css-page-6"
+            },
+            {
+                "id": "7",
+                "title": "Flexbox Layout",
+                "linkTo": "/css-page-7"
+            },
+            {
+                "id": "8",
+                "title": "Grid Layout",
+                "linkTo": "/css-page-8"
+            },
+            {
+                "id": "9",
+                "title": "Responsive Web Design",
+                "linkTo": "/css-page-9"
+            },
+            {
+                "id": "10",
+                "title": "CSS Transitions and Animations",
+                "linkTo": "/css-page-10"
+            },
+            {
+                "id": "11",
+                "title": "CSS Transformations",
+                "linkTo": "/css-page-11"
+            },
+            {
+                "id": "12",
+                "title": "Advanced Selectors and Combinators",
+                "linkTo": "/css-page-12"
+            },
+            {
+                "id": "13",
+                "title": "Pseudo-classes and Pseudo-elements",
+                "linkTo": "/css-page-13"
+            },
+            {
+                "id": "14",
+                "title": "CSS Variables and Custom Properties",
+                "linkTo": "/css-page-14"
+            },
+            {
+                "id": "15",
+                "title": "CSS Preprocessors",
+                "linkTo": "/css-page-15"
+            },
+            {
+                "id": "16",
+                "title": "CSS Frameworks and Libraries",
+                "linkTo": "/css-page-16"
+            },
+            {
+                "id": "17",
+                "title": "CSS Architecture and Methodologies",
+                "linkTo": "/css-page-17"
+            },
+            {
+                "id": "18",
+                "title": "Accessibility in CSS",
+                "linkTo": "/css-page-18"
+            },
+            {
+                "id": "19",
+                "title": "Performance Optimization",
+                "linkTo": "/css-page-19"
+            },
+            {
+                "id": "20",
+                "title": "CSS Debugging and Testing",
+                "linkTo": "/css-page-20"
+            },
+            {
+                "id": "21",
+                "title": "CSS and JavaScript Integration",
+                "linkTo": "/css-page-21"
+            },
+            {
+                "id": "22",
+                "title": "CSS Grid Layout: Advanced Topics",
+                "linkTo": "/css-page-22"
+            },
+            {
+                "id": "23",
+                "title": "CSS for Print",
+                "linkTo": "/css-page-23"
+            },
+            {
+                "id": "24",
+                "title": "Experimental and Future CSS",
+                "linkTo": "/css-page-24"
+            },
         ]
     },
     {
