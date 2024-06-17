@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "question": "What is this app about?",
+        "answer": "This app is a turntable player built using React.js. It allows users to select and play music records.",
+        "btn_aria_expanded": true,
+        "data_base_target_id": "faq-question-1",
+        "class_name": "accordion-collapse collapse show"
+    },
+    {
+        "id": "2",
+        "question": " How can I choose a record to play?",
+        "answer": "You can browse through the list of available records and click on any record to play it on the turntable.",
+        "btn_aria_expanded": false,
+        "data_base_target_id": "faq-question-2",
+        "class_name": "accordion-collapse collapse"
+    },
+    {
+        "id": "3",
+        "question": "Who can manage the records list (add, edit, delete)?",
+        "answer": "Only users with Admin access can manage the records list. Regular users can only play records.",
+        "btn_aria_expanded": false,
+        "data_base_target_id": "faq-question-3",
+        "class_name": "accordion-collapse collapse"
+    },
+    {
+        "id": "4",
+        "question": "How do I get admin access?",
+        "answer": "Admin access is typically granted by the app administrator. If you need admin privileges, please contact the app administrator or the support team.",
+        "btn_aria_expanded": false,
+        "data_base_target_id": "faq-question-4",
+        "class_name": "accordion-collapse collapse"
+    },
+    {
+        "id": "5",
+        "question": "How can I add a new record to the app?",
+        "answer": "If you have admin access, you will see an option to add a record in the admin dashboard. Simply fill out the necessary details (title, artist, etc.) and upload the music file.",
+        "btn_aria_expanded": false,
+        "data_base_target_id": "faq-question-5",
+        "class_name": "accordion-collapse collapse"
+    },
+    {
+        "id": "6",
+        "question": "Can I edit the details of an existing record?",
+        "answer": "Yes, admin users can edit the details of any record. Navigate to the admin dashboard, find the record you want to edit, and click on the edit button.",
+        "btn_aria_expanded": false,
+        "data_base_target_id": "faq-question-6",
+        "class_name": "accordion-collapse collapse"
+    },
+    {
+        "id": "7",
+        "question": "How do I delete a record from the app?",
+        "answer": "In the admin dashboard, locate the record you wish to delete and click on the delete button. Please note that this action cannot be undone.",
+        "btn_aria_expanded": false,
+        "data_base_target_id": "faq-question-7",
+        "class_name": "accordion-collapse collapse"
+    },
+    {
+        "id": "8",
+        "question": "Are there any restrictions on the type of music files I can upload?",
+        "answer": "The app supports commonly used audio file formats (e.g., MP3, WAV). Ensure your music files are compatible with these formats for smooth playback.",
+        "btn_aria_expanded": false,
+        "data_base_target_id": "faq-question-8",
+        "class_name": "accordion-collapse collapse"
+    },
+    {
+        "id": "9",
+        "question": "Can I create playlists or queues of records to play in a sequence?",
+        "answer": "Currently, the app does not support playlists or queues. Each record is played individually based on user selection.",
+        "btn_aria_expanded": false,
+        "data_base_target_id": "faq-question-9",
+        "class_name": "accordion-collapse collapse"
+    },
+    {
+        "id": "10",
+        "question": "How can I report an issue or suggest a feature for the app?",
+        "answer": "We welcome your feedback! Please use the contact form or email provided in the app to reach out to our support team with any issues, suggestions, or questions.",
+        "btn_aria_expanded": false,
+        "data_base_target_id": "faq-question-10",
+        "class_name": "accordion-collapse collapse"
+    }
+]
