@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "title": "HTML5",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/html5-color.svg",
+        "category": "Skills",
+        "percent": 98,
+        "readMoreLink": "https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+    },
+    {
+        "id": 2,
+        "title": "CSS3",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/css3-color.svg",
+        "category": "Skills",
+        "percent": 100,
+        "readMoreLink": "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"
+    },
+    {
+        "id": 3,
+        "title": "Bootstrap",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/bootstrap-color.svg",
+        "category": "Skills",
+        "percent": 50,
+        "readMoreLink": "https://getbootstrap.com/"
+    },
+    {
+        "id": 4,
+        "title": "SASS",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/sass-color.svg",
+        "category": "Skills",
+        "percent": 40,
+        "readMoreLink": "https://sass-lang.com/"
+    },
+    {
+        "id": 5,
+        "title": "Tailwind",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/tailwindcss-color.svg",
+        "category": "Skills",
+        "percent": 50,
+        "readMoreLink": "https://tailwindcss.com/"
+    },
+    {
+        "id": 6,
+        "title": "JavaScript",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/javascript-color.svg",
+        "category": "Skills",
+        "percent": 90,
+        "readMoreLink": "https://javascript.info/"
+    },
+    {
+        "id": 7,
+        "title": "TypeScript",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/typescript-color.svg",
+        "category": "Skills",
+        "percent": 60,
+        "readMoreLink": "https://www.typescriptlang.org/"
+    },
+    {
+        "id": 8,
+        "title": "Python",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/python-color.svg",
+        "category": "Skills",
+        "percent": 50,
+        "readMoreLink": "https://www.python.org/"
+    },
+    {
+        "id": 9,
+        "title": "React",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/react-color.svg",
+        "category": "Skills",
+        "percent": 90,
+        "readMoreLink": "https://react.dev/"
+    },
+    {
+        "id": 10,
+        "title": "Vite",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/vite-color.svg",
+        "category": "Skills",
+        "percent": 50,
+        "readMoreLink": "https://vitejs.dev/"
+    },
+    {
+        "id": 11,
+        "title": "Redux",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/redux-color.svg",
+        "category": "Skills",
+        "percent": 70,
+        "readMoreLink": "https://redux.js.org/"
+    },
+    {
+        "id": 12,
+        "title": "NodeJS",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/nodedotjs-color.svg",
+        "category": "Skills",
+        "percent": 50,
+        "readMoreLink": "https://nodejs.org/en"
+    },
+    {
+        "id": 13,
+        "title": "Nodemon",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/nodemon-color.svg",
+        "category": "Skills",
+        "percent": 65,
+        "readMoreLink": "https://nodemon.io/"
+    },
+    {
+        "id": 14,
+        "title": "ExpressJS",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/express-color.svg",
+        "category": "Skills",
+        "percent": 65,
+        "readMoreLink": "https://expressjs.com/"
+    },
+    {
+        "id": 15,
+        "title": "Docker",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/docker-color.svg",
+        "category": "Skills",
+        "percent": 35,
+        "readMoreLink": "https://www.docker.com/"
+    },
+    {
+        "id": 16,
+        "title": "MongoDB",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/mongodb-color.svg",
+        "category": "Skills",
+        "percent": 75,
+        "readMoreLink": "https://www.mongodb.com/"
+    },
+    {
+        "id": 17,
+        "title": "MySQL",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/mysql-color.svg",
+        "category": "Skills",
+        "percent": 35,
+        "readMoreLink": "https://www.mysql.com/"
+    },
+    {
+        "id": 18,
+        "title": "GreenSock",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/greensock-color.svg",
+        "category": "Skills",
+        "percent": 55,
+        "readMoreLink": "https://gsap.com/"
+    },
+    {
+        "id": 19,
+        "title": "Jest",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/jest-color.svg",
+        "category": "Tools",
+        "percent": 45,
+        "readMoreLink": "https://jestjs.io/"
+    },
+    {
+        "id": 20,
+        "title": "Postman",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/postman-color.svg",
+        "category": "Tools",
+        "percent": 75,
+        "readMoreLink": "https://www.postman.com/"
+    },
+    {
+        "id": 21,
+        "title": "Git",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/git-color.svg",
+        "category": "Tools",
+        "percent": 100,
+        "readMoreLink": "https://git-scm.com/"
+    },
+    {
+        "id": 22,
+        "title": "GitHub",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/github-color.svg",
+        "category": "Tools",
+        "percent": 100,
+        "readMoreLink": "https://github.com/"
+    },
+    {
+        "id": 23,
+        "title": "Glitch",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/glitch-color.svg",
+        "category": "Tools",
+        "percent": 40,
+        "readMoreLink": "https://glitch.com/"
+    },
+    {
+        "id": 24,
+        "title": "Netlify",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/netlify-color.svg",
+        "category": "Tools",
+        "percent": 80,
+        "readMoreLink": "https://www.netlify.com/"
+    },
+    {
+        "id": 25,
+        "title": "Render",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/render-color.svg",
+        "category": "Tools",
+        "percent": 70,
+        "readMoreLink": "https://render.com/"
+    },
+    {
+        "id": 26,
+        "title": "GIMP",
+        "skillIcon": "https://alike73.github.io/assets/images/skills-icons/gimp-color.svg",
+        "category": "Tools",
+        "percent": 80,
+        "readMoreLink": "https://www.gimp.org/"
+    }
+]
