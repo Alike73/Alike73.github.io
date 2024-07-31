@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Recipe Radar",
+        "image": "https://alike73.github.io/ai-site-admin/assets/images/projects-images/project-1.png",
+        "category": "WebApps",
+        "demoLink": "https://gilded-bavarois-ce9ea9.netlify.app/",
+        "githubLink": "https://github.com/Alike73/RECIPE-RADAR-PRO?tab=readme-ov-file",
+        "usedTech": "CSS | Bootstrap | React | NodeJS | REST API"
+    },
+    {
+        "id": 2,
+        "title": "Useful Dev Tools",
+        "image": "https://alike73.github.io/ai-site-admin/assets/images/projects-images/project-2.png",
+        "category": "WebApps",
+        "demoLink": "https://monumental-tartufo-20c97d.netlify.app/",
+        "githubLink": "https://github.com/Alike73/USEFUL-DEV-TOOLS-FRONTEND",
+        "usedTech": "CSS | Bootstrap | React | REST API"
+    },
+    {
+        "id": 3,
+        "title": "Sky Seeker Weather App",
+        "image": "https://alike73.github.io/ai-site-admin/assets/images/projects-images/project-3.png",
+        "category": "WebApps",
+        "demoLink": "https://cozy-melba-b117ea.netlify.app/",
+        "githubLink": "https://github.com/Alike73/Sky-Seeker-Frontend?tab=readme-ov-file",
+        "usedTech": "CSS | Bootstrap | React | REST API"
+    },
+    {
+        "id": 4,
+        "title": "Turntable Player App",
+        "image": "https://alike73.github.io/ai-site-admin/assets/images/projects-images/project-4.png",
+        "category": "WebApps",
+        "demoLink": "https://ai-turntable.netlify.app/",
+        "githubLink": "https://github.com/Alike73/AI-TURNTABLE-frontend?tab=readme-ov-file",
+        "usedTech": "CSS | Bootstrap | React | REST API"
+    },
+    {
+        "id": 5,
+        "title": "Your Swift Notes",
+        "image": "https://alike73.github.io/ai-site-admin/assets/images/projects-images/project-5.png",
+        "category": "WebApps",
+        "demoLink": "https://ornate-marshmallow-650547.netlify.app/",
+        "githubLink": "https://github.com/Alike73/Swift-Notes-Frontend?tab=readme-ov-file",
+        "usedTech": "CSS | Bootstrap | React | NodeJS | MongoDB | REST API"
+    },
+    {
+        "id": 6,
+        "title": "Christmas Countdown Timer",
+        "image": "https://alike73.github.io/ai-site-admin/assets/images/projects-images/project-6.png",
+        "category": "WebApps",
+        "demoLink": "https://lovely-seahorse-2c4f0e.netlify.app/",
+        "githubLink": "https://github.com/Alike73/Swift-Notes-Frontend?tab=readme-ov-file",
+        "usedTech": "CSS | Bootstrap | React | NodeJS | MongoDB | REST API"
+    },
+    {
+        "id": 7,
+        "title": "Guitar Shop, Cart concept",
+        "image": "https://alike73.github.io/ai-site-admin/assets/images/projects-images/project-7.png",
+        "category": "WebApps",
+        "demoLink": "https://euphonious-puffpuff-68216f.netlify.app/",
+        "githubLink": "https://github.com/Alike73/Guitar-Shopping",
+        "usedTech": "HTML | CSS | JavaScript |"
+    }
+]
