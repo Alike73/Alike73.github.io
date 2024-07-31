@@ -12,7 +12,7 @@
         "id": 2,
         "title": "Useful Dev Tools",
         "image": "https://alike73.github.io/ai-site-admin/assets/images/projects-images/project-2.png",
-        "category": "WebApps",
+        "category": "Websites",
         "demoLink": "https://monumental-tartufo-20c97d.netlify.app/",
         "githubLink": "https://github.com/Alike73/USEFUL-DEV-TOOLS-FRONTEND",
         "usedTech": "CSS | Bootstrap | React | REST API"
@@ -57,7 +57,7 @@
         "id": 7,
         "title": "Guitar Shop, Cart concept",
         "image": "https://alike73.github.io/ai-site-admin/assets/images/projects-images/project-7.png",
-        "category": "WebApps",
+        "category": "Components",
         "demoLink": "https://euphonious-puffpuff-68216f.netlify.app/",
         "githubLink": "https://github.com/Alike73/Guitar-Shopping",
         "usedTech": "HTML | CSS | JavaScript |"
