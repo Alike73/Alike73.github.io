@@ -4,6 +4,7 @@
         "month": "Mar",
         "year": 2016,
         "company": "EURASIAN BANK, Almaty, KZ",
+        "position": "Frontend Web Dev (Entry level)",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     },
     {
@@ -11,6 +12,7 @@
         "month": "June",
         "year": 2018,
         "company": "EURASIAN BANK, Almaty, KZ",
+        "position": "Frontend Web Dev (Middle)",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     },
     {
@@ -18,6 +20,7 @@
         "month": "June",
         "year": 2019,
         "company": "EURASIAN BANK, Almaty, KZ",
+        "position": "Full Stack Web Dev",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     },
     {
@@ -25,6 +28,7 @@
         "month": "January",
         "year": 2020,
         "company": "LASTH, Los Altos, CA",
+        "position": "Full Stack Web Dev",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     },
     {
@@ -32,6 +36,7 @@
         "month": "September",
         "year": 2022,
         "company": "LASTH, Los Altos, CA",
+        "position": "Full Stack Web Dev",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     },
     {
@@ -39,6 +44,7 @@
         "month": "August",
         "year": 2023,
         "company": "AI Tech Lab",
+        "position": "Senior Full Stack Web Dev",
         "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     }
 ]
